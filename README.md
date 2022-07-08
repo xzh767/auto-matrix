@@ -1,11 +1,11 @@
 # auto-matrix
 一键自动连接matrix
 ## 介绍
-matrix，是cato sweety（mcer.cn)开发的新一代联机工具
+matrix，是cato sweety（mcer.cn)开发的新一代内网穿透工具
 
-但是目前联机需要输入命令，很麻烦
+但是目前需要输入命令，很麻烦
 
-所以写了这么一个东西，用来快速联机
+所以写了这么一个东西，用来给小白用
 ## 使用
 1.下载源代码matrix-win.cpp或者matrix-linux.cpp,手动编译
 
